@@ -1,0 +1,23 @@
+{
+  "generator-fountain-react": {
+    "version": "1.0.0",
+    "props": {
+      "framework": "react",
+      "modules": "webpack",
+      "js": "babel",
+      "ci": "",
+      "css": "scss",
+      "resolved": "C:\\Users\\Sarang\\AppData\\Roaming\\npm\\node_modules\\generator-fountain-webapp\\node_modules\\generator-fountain-react\\generators\\app\\index.js",
+      "namespace": "fountain-react:app",
+      "_": [],
+      "sample": "techs",
+      "router": "router"
+    }
+  },
+  "@microsoft/generator-sharepoint": {
+    "version": "1.2.0",
+    "libraryName": "sample-spfx-solution",
+    "libraryId": "28801b2e-905e-4ffa-8526-cea112b12d14",
+    "environment": "spo"
+  }
+}
